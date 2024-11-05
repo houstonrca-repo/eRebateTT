@@ -2,8 +2,12 @@
 
 RC'S FIRST PROJECT WITH GIT
 
-Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.[1] Such machines may be called AIs.
+Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems.
+ It is a field of research in computer science that develops and studies methods and software that enable machines to 
+perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.[1] Such machines may be called AIs.
 
 
 I added something.
 T added something Again.
+
+I added something Nov 5 2:37 pm with Tutor Steve
